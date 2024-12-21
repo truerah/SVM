@@ -134,7 +134,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Contributions are welcome! Please follow the guidelines in the `CONTRIBUTING.md` file for submitting pull requests.
 
 ---
-
-## Contact
-For questions or feedback, please reach out to [Your Name] at [your-email@example.com].
-
